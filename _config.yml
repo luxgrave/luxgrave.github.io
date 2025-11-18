@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Lukas Raven Docs
+description: A starter documentation for lukasraven using Just the docs template!
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://lukasraven.github.io
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Template Repository: https://github.com/lukasraven/lukasreven.github.io
