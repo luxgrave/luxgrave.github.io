@@ -1,8 +1,8 @@
 title: Lukas Raven Docs
 description: A starter documentation for lukasraven using Just the docs template!
-theme: just-the-docs
-
-url: https://lukasraven.github.io
-
+theme: "just-the-docs"
+url: "https://lukasraven.github.io"
+logo: "/assets/images/logo.png"
+favicon_ico: "/assets/images/favicon.ico"
 aux_links:
-  Template Repository: https://github.com/lukasraven/lukasreven.github.io
+  Template Repository: "https://github.com/lukasraven/lukasreven.github.io"
